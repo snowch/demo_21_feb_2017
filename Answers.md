@@ -1,8 +1,8 @@
-Exercise 1 answer
+### Exercise 1 answer
 
 collect(df)
 
-Exercise 2 answer
+### Exercise 2 answer
 
 count(filter(df, df$eruptions > 5))
 
